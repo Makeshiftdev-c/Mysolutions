@@ -2,7 +2,9 @@
 
 <u>Background:</u>  
   
-Doesn't include a few programming projects. The compiler is configured to default; supports all C89 standard (international standard ISO/IEC 9899:1990) features and some C99 standard (international standard ISO/IEC 9899:1999) features. (May inlcude absent projects pre- and post-chapter 3 at a later date.) Code could be improved for some of the projects. The repository will be updated as I work through the book, and improvements made on subsequent iterations.
+Doesn't include several Programming Projects, which will be added at a later date. Code could be improved for some of the projects. The repository will be updated as I work through the book, and improvements made on subsequent iterations. This repository is, mainly, intended for the purposes of self-documentation.
+  
+I claim no owner of the book and any material contained there within. The problem/project contexts are quoted directly from the book, with some variation in wording in some cases. Please see 'notice' file for further information.
 
 <img src="Image/book_image.jpg" width="300" height="350">
 
