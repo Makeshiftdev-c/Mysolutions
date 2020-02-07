@@ -2,7 +2,7 @@
 
 <u>Background:</u>  
   
-Doesn't include several Programming Projects, which will be added at a later date. Code could be improved for some of the projects. The repository will be updated as I work through the book, and improvements made on subsequent iterations. This repository is, mainly, intended for the purposes of self-documentation. Folders and files to be re-organised upon first revision.
+Doesn't include several Programming Projects, which will be added at a later date. Code could be improved for some of the projects. The repository will be updated as I work through the book, and improvements made on subsequent iterations. Folders and files to be re-organised upon first revision. This repository is, mainly, intended for the purposes of self-documentation
   
 I claim no owner of the book and any material contained there within. The problem/project contexts are quoted directly from the book, with some variation in wording in some cases. Please see 'Notice.txt' file for further information.
 
